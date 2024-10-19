@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZ5aXgweW52Z2d5NnlsdHU0OGVmcHlwMTRmbXBpNjZ3bDhhZ2JvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MCMHrLVUhsBW0ZgcAD/giphy.webp" width=""/>
+</div>
 <h2 align="center">Hi, I'm Nikita aka <a href="https://github.com/Naivrick/Naivrick" target="_blank">Naivrick</a> 👋</h2>
 <!-- <h3 align="center">from :ru:</h3> -->
 
