@@ -1,10 +1,15 @@
-<h2 align="center">Hi, I'm Nikita aka <a href="https://github.com/Naivrick/Naivrick" target="_blank">Naivrick</a> 👋</h2>
-<!-- <h3 align="center">from :ru:</h3> -->
+<div id="header" align="center">
+  <img src="https://media.tenor.com/C2JxSGV2rqkAAAAi/skgcode.gif" width=""/>
+  <h2 align="center">Hi, I'm Nikita aka <a href="https://github.com/Naivrick" target="_blank">Naivrick</a> 👋</h2>
+</div>
+
 
 <details>
-  <summary>MY SKILLS</summary>
+  <summary style='color:Green; text-align: center; background: white'>MY SKILLS</summary>
+DROP LIST
 
 
+<details>
 <h4 align="center"> OS: </h4>
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -80,7 +85,7 @@
   </table>
 
               
-</details>
+
 
 <!--
 - 🔭 I’m currently working on ...
@@ -93,6 +98,8 @@
 - ⚡ Fun fact: I'm a red-haired person.
 -->
 
+</details>
+
 
 ```                                         
  _   _    _    _____     ______  ___ ____ _  __
@@ -102,3 +109,4 @@
 |_| \_/_/   \_|___|  \_/  |_| \_|___\____|_|\_\
                                                
 ```
+</details>
