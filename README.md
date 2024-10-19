@@ -5,7 +5,7 @@
 
 
 <details>
-  <summary style='color:Green; text-align: center; background: white'>MY SKILLS</summary>
+  <summary align="center">MY SKILLS</summary>
 DROP LIST
 
 
