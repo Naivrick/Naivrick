@@ -3,22 +3,35 @@
   <h2 align="center">Hi, I'm Nikita aka <a href="https://github.com/Naivrick" target="_blank">Naivrick</a> 👋</h2>
 </div>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
-- [x] #1
-- [ ] **What this?**
-- [ ] When all tasks are complete :tada:
+        
+<div align="center" id="badges">
+  <a href='t.me/naivrick' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white&color=%233c9bd5"></a>
+  <a href="mailto:sunsfiredev@mail.ru"><img alt="Static Badge" src="https://img.shields.io/badge/Mail.ru-white?style=for-the-badge&logoColor=white&logo=mail.ru&color=%233c9bd5"></a>
+  <a href="mailto:Nicest174@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logoColor=white&logo=gmail&color=%233c9bd5"></a>
+</div>
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <details>
   <summary align="center">MY SKILLS</summary>
 DROP LIST
+- [x] #1
+- [ ] **What this?**
+- [ ] When all tasks are complete :tada:
+
 
 
 > [!NOTE]
 > Полезная информация, которую пользователи должны знать, даже при съемках контента.
 
-> [!TIP]
-> Полезные советы для того, чтобы делать что -то лучше или легче.
+
+
+[!TIP]
+Полезные советы для того, чтобы делать что -то лучше или легче.
 
 > [!IMPORTANT]
 > Ключевые информационные пользователи должны знать, чтобы достичь своей цели.
