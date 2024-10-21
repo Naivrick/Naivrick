@@ -4,10 +4,9 @@
    A developer from Russia and learning every day. 
 </div>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+![---](static/images/lines/469cd0.png)<!--LINE-->
 
 
-<!--  -->
          
 <div align="center" id="badges">
   <h3 align="center">📫 How to reach me: </h3>
@@ -19,7 +18,7 @@
 
 
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+![---](static/images/lines/469cd0.png)<!--LINE-->
 
 <div align='center'>
   <h3 align='center'>🖥 My workspace </h3>
@@ -34,7 +33,7 @@
 
 </div>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+![---](static/images/lines/469cd0.png)<!--LINE-->
 
 <details>
   <summary align="center">MY SKILLS</summary>
@@ -139,7 +138,7 @@ DROP LIST
   </table>
 
               
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+![---](static/images/lines/469cd0.png)<!--LINE-->
 
 <div align="center" id="CodeWars">
   <img alt=large src="https://www.codewars.com/users/Naivrick/badges/large">
@@ -166,7 +165,7 @@ DROP LIST
 ```
 </details>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+![---](static/images/lines/469cd0.png)<!--LINE-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
