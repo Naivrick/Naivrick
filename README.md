@@ -1,45 +1,11 @@
-<div id="header" align="center">
-  <img src="https://media.tenor.com/C2JxSGV2rqkAAAAi/skgcode.gif" width="256"/>
-  <h2 align="center">Hi, I'm Nikita aka <a href="https://github.com/Naivrick" target="_blank">Naivrick </a> 👋</h2>
-   A developer from Russia and learning every day. 
-</div>
-
-![---](static/images/lines/469cd0.png)<!--LINE-->
-
+<header>
+    <div id='Header'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=469cd0&text=👋Hi%20,%20I'm%20Naivrick&fontAlignY=64&section=footer&descAlign=50&rotate=0&animation=twinkling&fontColor=ffffff&fontAlign=50">
+    <img src="https://capsule-render.vercel.app/api?type=slice&height=98&color=3b7397&text=A%20developer%20from%20Russia%20and%20learning%20every%20day.%20&fontAlignY=24&section=header&descAlign=50&rotate=0&animation=twinkling&fontColor=ffffff&fontAlign=70&fontSize=19">
+    </div>
+</header>
 
 
-<div align='left' id="Reach_me">
-    <details>
-        <summary>🤙 <strong>Reach me</strong></summary>
-        <div align="center" id="badges">
-            <h3 align="center">📫 How to reach me: </h3>
-            <table>
-                <thead>
-                    <tr>
-                        <th>EN :us: </th>
-                        <th>If you have any questions, please feel free to contact me via private message and I will
-                            be
-                            happy to help you.</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>RU :ru:</td>
-                        <td>Если у вас есть какие-либо вопросы, пожалуйста, не стесняйтесь обращаться ко мне через
-                            личное сообщение, и я буду рад вам помочь.</td>
-                    </tr>
-                </tbody>
-            </table>
-            <h4>🔽LINKS🔽</h4>
-            <a href='https://t.me/naivrick' target="_blank"><img alt="Static Badge"
-                    src="https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram&logoColor=white&color=%233c9bd5"></a>
-            <a href="mailto:sunsfiredev@mail.ru"><img alt="mail Badge"
-                    src="https://img.shields.io/badge/Mail.ru-white?style=flat&logoColor=white&logo=mail.ru&color=%233c9bd5"></a>
-            <a href="mailto:Nicest174@gmail.com"><img alt="gmail Badge"
-                    src="https://img.shields.io/badge/Gmail-white?style=flat&logoColor=white&logo=gmail&color=%233c9bd5"></a>
-        </div>
-    </details>
-</div>
 
 <div align='left' id="Resume">
     <details>
@@ -61,14 +27,16 @@
     </details>
 </div>
 
-<div aligin='left' id="My_skill">
+![---](static/images/lines/469cd0.png)<!--LINE-->
+
+<div aligin='left' id="My_Toolbox">
     <details>
-    <summary align="left">🛠 <strong>My stack </strong></summary>
-    <h5 align="center">Favorite</h5>
+    <summary align="left"> <strong>🛠️ My Toolbox</strong></summary>
+    <h5 align="center">Languages</h5>
     <img src="https://skillicons.dev/icons?i=py,js,html,css,">
     <h5 align="center">DBMS</h5>
     <img src="https://skillicons.dev/icons?i=sqlite,postgres">
-    <h5 align=" center">DevOps tools</h5>
+    <h5 align=" center">DevOps</h5>
     <img src="https://skillicons.dev/icons?i=linux,bash,github,docker,nginx">
     <h5 align="center">Frameworks and libraries</h5>
     <img src="https://skillicons.dev/icons?i=fastapi,opencv,selenium">
@@ -82,6 +50,27 @@
     <br>
     </details>
 </div>
+
+![---](static/images/lines/469cd0.png)<!--LINE-->
+
+<div align='left' id="Reach_me">
+    <details>
+        <summary>🤙 <strong>Reach me</strong></summary>
+        <div align="center" id="badges">
+            <h3 align="center">📫 How to reach me: </h3>
+            <h4>If you have any questions, please feel free to contact me via private message and I  will be happy to help you.</h4>
+            <h4>🔽LINKS🔽</h4>
+            <a href='https://t.me/naivrick' target="_blank"><img alt="Static Badge"
+                    src="https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram&logoColor=white&color=%233c9bd5"></a>
+            <a href="mailto:sunsfiredev@mail.ru"><img alt="mail Badge"
+                    src="https://img.shields.io/badge/Mail.ru-white?style=flat&logoColor=white&logo=mail.ru&color=%233c9bd5"></a>
+            <a href="mailto:Nicest174@gmail.com"><img alt="gmail Badge"
+                    src="https://img.shields.io/badge/Gmail-white?style=flat&logoColor=white&logo=gmail&color=%233c9bd5"></a>
+        </div>
+    </details>
+</div>
+
+![---](static/images/lines/469cd0.png)<!--LINE-->
 
 <div align='left' id=My_workspace>
     <details>
@@ -103,6 +92,9 @@
     </details>
 </div>
 
+
+![---](static/images/lines/469cd0.png)<!--LINE-->
+
 <div align='left' id="More_information">
     <details>
         <summary align="left">📁 <strong>More information.</strong></summary>
@@ -117,14 +109,20 @@
     </details>
 </div>
 
+![---](static/images/lines/469cd0.png)<!--LINE-->
+
 <div align='left' id="quote">
     <details>
         <summary align="left">💭 <strong>Quote</strong></summary>
+        <br>
         <a href="https://github.com/piyushsuthar/github-readme-quotes">
             <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=УЧИТЬСЯ, УЧИТЬСЯ И ЕЩЕ РАЗ УЧИТЬСЯ...&author=Ленин&border=true" alt="Readme Quotes">
         </a>
+        <br>
+          <img src="https://media.tenor.com/C2JxSGV2rqkAAAAi/skgcode.gif" width="256"/>
+        <br>
     </details>
 </div>
 
-
-![---](static/images/lines/469cd0.png)<!--LINE-->
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=469cd0&text=Thank%20You!!&fontAlignY=40&section=header&descAlign=50&rotate=0&animation=twinkling&fontColor=ffffff">
