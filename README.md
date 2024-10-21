@@ -1,18 +1,38 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/C2JxSGV2rqkAAAAi/skgcode.gif" width=""/>
   <h2 align="center">Hi, I'm Nikita aka <a href="https://github.com/Naivrick" target="_blank">Naivrick</a> 👋</h2>
+   A developer from Russia and learning every day. 
 </div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 
-        
+<!--  -->
+         
 <div align="center" id="badges">
-  <a href='t.me/naivrick' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=white&color=%233c9bd5"></a>
-  <a href="mailto:sunsfiredev@mail.ru"><img alt="Static Badge" src="https://img.shields.io/badge/Mail.ru-white?style=for-the-badge&logoColor=white&logo=mail.ru&color=%233c9bd5"></a>
-  <a href="mailto:Nicest174@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logoColor=white&logo=gmail&color=%233c9bd5"></a>
+  <h3 align="center">📫 How to reach me: </h3>
+  <a href='https://t.me/naivrick' target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-white?style=flat&logo=telegram&logoColor=white&color=%233c9bd5"></a>
+  <a href="mailto:sunsfiredev@mail.ru"><img alt="mail Badge" src="https://img.shields.io/badge/Mail.ru-white?style=flat&logoColor=white&logo=mail.ru&color=%233c9bd5"></a>
+  <a href="mailto:Nicest174@gmail.com"><img alt="gmail Badge" src="https://img.shields.io/badge/Gmail-white?style=flat&logoColor=white&logo=gmail&color=%233c9bd5"></a>
 </div>
 
+
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+<div align='center'>
+  <h3 align='center'>🖥 My workspace </h3>
+  <img src="https://img.shields.io/badge/windows-%23469cd0.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen 5 5600-%23469cd0.svg?&style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%23469cd0.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201050ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <h3 align='center'>and 💻 </h3>
+  <img src="https://img.shields.io/badge/Ubuntu-%23e95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen 5 5500U-%23469cd0.svg?&style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%23469cd0.svg?&style=for-the-badge&logoColor=white" />
+
+</div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -119,18 +139,19 @@ DROP LIST
   </table>
 
               
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+<div align="center" id="CodeWars">
+  <img alt=large src="https://www.codewars.com/users/Naivrick/badges/large">
+  <br>
+  <img alt=small src="https://www.codewars.com/users/Naivrick/badges/small">
+  <br>
+  <img alt=micro src="https://www.codewars.com/users/Naivrick/badges/micro">
+</div>
 
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm a red-haired person.
--->
+
+
 
 </details>
 
@@ -144,3 +165,14 @@ DROP LIST
                                                
 ```
 </details>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I'm a red-haired person.
