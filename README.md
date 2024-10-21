@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/C2JxSGV2rqkAAAAi/skgcode.gif" width="256"/>
-  <h2 align="center">Hi, I'm Nikita aka <a href="https://github.com/Naivrick" target="_blank">Naivrick</a> 👋</h2>
+  <h2 align="center">Hi, I'm Nikita aka <a href="https://github.com/Naivrick" target="_blank">Naivrick </a> 👋</h2>
    A developer from Russia and learning every day. 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align='left' id="Reach_me">
     <details>
-        <summary>🤙 Reach me</summary>
+        <summary>🤙 <strong>Reach me</strong></summary>
         <div align="center" id="badges">
             <h3 align="center">📫 How to reach me: </h3>
             <table>
@@ -43,25 +43,49 @@
 
 <div align='left' id="Resume">
     <details>
-        <summary>📃 Resume</summary>
+        <summary>📃 <strong>Resume</strong></summary>
         <div align="center" id="resume">
             <h3 align="center">📖 Education: </h3>
             <p>Currently, I gain knowledge by reading books and watching videos on YouTube. In addition, I take
                 courses
-                on the <a href="https://stepik.org/users/223284758/profile">Stepik</a> platform and try to improve
+                on the <a href="https://stepik.org/users/223284758/profile"><img src="https://img.shields.io/badge/Stepik-black?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDIgMTAyIj4KICA8cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNOTIuOCwyNy4zTDc2LjQsMTAuOEM3MCw0LjUsNjEuNiwxLDUyLjYsMXMtMTcuNCwzLjUtMjMuNyw5LjhMMTIuNSwyNy4zQzYuMSwzMy42LDIuNiw0MiwyLjYsNTEgICAgczMuNSwxNy40LDkuOCwyMy43bDE2LjQsMTYuNGM2LjMsNi4zLDE0LjgsOS44LDIzLjcsOS44YzguNywwLDE3LTMuMywyMy4zLTkuNGwwLDBsMCwwbDE2LjgtMTYuOGM2LjMtNi4zLDkuOC0xNC44LDkuOC0yMy43ICAgIEMxMDIuNiw0Miw5OS4yLDMzLjYsOTIuOCwyNy4zeiIvPgogIDxwYXRoIGZpbGw9IiMyMjIyMjIiIGQ9Ik02NC43LDc5LjljLTMuMSwzLTcuNCw0LjktMTIsNC45Yy00LjgsMC05LjEtMS45LTEyLjMtNS4xbDguMS04LjFjMS4xLDEuMSwyLjUsMS43LDQuMiwxLjcgICAgYzEuNiwwLDMuMS0wLjcsNC4yLTEuN2wxNi40LTE2LjRjMS4xLTEuMSwxLjctMi41LDEuNy00LjJjMC0xLjYtMC43LTMuMS0xLjctNC4yYy0xLjEtMS4xLTIuNS0xLjctNC4yLTEuN3MtMy4xLDAuNy00LjIsMS43ICAgIEw0OC41LDYzLjNjLTMuMSwzLjEtNy41LDUuMS0xMi4zLDUuMWMtNC44LDAtOS4xLTItMTIuMy01LjFjLTMuMS0zLjEtNS4xLTcuNS01LjEtMTIuM2MwLTQuOCwxLjktOS4xLDUuMS0xMi4zbDE2LjQtMTYuNCAgICBjMy4xLTMuMSw3LjUtNS4xLDEyLjMtNS4xczkuMSwxLjksMTIuMyw1LjFsLTguMSw4LjFjLTEuMS0xLjEtMi41LTEuNy00LjItMS43cy0zLjEsMC43LTQuMiwxLjdMMzIsNDYuOCAgICBjLTEuMSwxLjEtMS43LDIuNS0xLjcsNC4yYzAsMS42LDAuNywzLjEsMS43LDQuMmMxLjEsMS4xLDIuNSwxLjcsNC4yLDEuN2MxLjYsMCwzLjEtMC43LDQuMi0xLjdsMTYuNC0xNi40ICAgIGMzLjEtMy4xLDcuNS01LjEsMTIuMy01LjFzOS4xLDEuOSwxMi4zLDUuMWMzLjEsMy4xLDUuMSw3LjUsNS4xLDEyLjNjMCw0LjgtMS45LDkuMS01LjEsMTIuM0w2NC43LDc5Ljl6Ii8%2BCjwvc3ZnPgo%3D&logoColor=white
+                "></a> platform and try to improve
                 my
-                skills on the <a href="https://www.codewars.com/users/Naivrick">Codewars</a> website.
+                skills on the <a href="https://www.codewars.com/users/Naivrick"> <img src="https://img.shields.io/badge/%20Codewars-black?style=flat&logo=codewars&logoColor=white
+                "> </a>.
             </p>
             <img alt=small src="https://www.codewars.com/users/Naivrick/badges/small">
-            <h3 align="center">🛠 Experience: </h3>
+             <h3 align="center">🛠 Experience: </h3>
             <p>I have not yet gained any real-world experience 😥</p>
         </div>
     </details>
 </div>
 
+<div aligin='left' id="My_skill">
+    <details>
+    <summary align="left">🛠 <strong>My stack </strong></summary>
+    <h5 align="center">Favorite</h5>
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,">
+    <h5 align="center">DBMS</h5>
+    <img src="https://skillicons.dev/icons?i=sqlite,postgres">
+    <h5 align=" center">DevOps tools</h5>
+    <img src="https://skillicons.dev/icons?i=linux,bash,github,docker,nginx">
+    <h5 align="center">Frameworks and libraries</h5>
+    <img src="https://skillicons.dev/icons?i=fastapi,opencv,selenium">
+    <h5 align="center">My tools</h5>
+    <img
+        src="https://skillicons.dev/icons?i=windows,ubuntu,vscode,figma,ps,obsidian,git,replit,postman">
+    <h5 align="center">I've been involved in game development in the past.</h5>
+    <img src="https://skillicons.dev/icons?i=unity,cs,blender">
+    <h5 align="center">The best site😅</h5>
+    <img src="https://skillicons.dev/icons?i=stackoverflow">
+    <br>
+    </details>
+</div>
+
 <div align='left' id=My_workspace>
     <details>
-        <summary align="left">💻 My Workspace</summary>
+        <summary align="left">💻 <strong>My Workspace</strong></summary>
         <h3 align='center'>🖥 PC</h3>
         <img
             src="https://img.shields.io/badge/windows-%23469cd0.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -81,7 +105,7 @@
 
 <div align='left' id="More_information">
     <details>
-        <summary align="left">📁 More information.</summary>
+        <summary align="left">📁 <strong>More information.</strong></summary>
         <ul align="left">
             <li>🔭 I am currently working on both soft and hard skills.</li>
             <li>🌱 I am currently studying</li>
@@ -92,5 +116,15 @@
         </ul>
     </details>
 </div>
+
+<div align='left' id="quote">
+    <details>
+        <summary align="left">💭 <strong>Quote</strong></summary>
+        <a href="https://github.com/piyushsuthar/github-readme-quotes">
+            <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&quote=УЧИТЬСЯ, УЧИТЬСЯ И ЕЩЕ РАЗ УЧИТЬСЯ...&author=Ленин&border=true" alt="Readme Quotes">
+        </a>
+    </details>
+</div>
+
 
 ![---](static/images/lines/469cd0.png)<!--LINE-->
