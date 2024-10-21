@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/C2JxSGV2rqkAAAAi/skgcode.gif" width=""/>
+  <img src="https://media.tenor.com/C2JxSGV2rqkAAAAi/skgcode.gif" width="256"/>
   <h2 align="center">Hi, I'm Nikita aka <a href="https://github.com/Naivrick" target="_blank">Naivrick</a> 👋</h2>
    A developer from Russia and learning every day. 
 </div>
@@ -59,7 +59,7 @@
     </details>
 </div>
 
-<div align='center' id=My_workspace>
+<div align='left' id=My_workspace>
     <details>
         <summary align="left">💻 My Workspace</summary>
         <h3 align='center'>🖥 PC</h3>
@@ -79,7 +79,7 @@
     </details>
 </div>
 
-<div align='center' id="More_information">
+<div align='left' id="More_information">
     <details>
         <summary align="left">📁 More information.</summary>
         <ul align="left">
