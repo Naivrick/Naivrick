@@ -1,0 +1,375 @@
+{
+    // ОБЩЕЕ
+    ////ШРИФТ
+    "editor.fontFamily": "JetBrains Mono, Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 13, // Размер шрифта
+    "editor.letterSpacing": 1.2, // Отступы
+    "editor.lineHeight": 1.5, // Оступы
+    "editor.fontLigatures": true, //Лигатура текста == =>
+    "editor.tabSize": 4, // Количество пробелов в табуляции
+    "editor.indentSize": 4, // Количество пробелов в табуляции
+    "editor.insertSpaces": true, // Использовать пробелы вместо табуляции
+    "editor.inlayHints.fontFamily": "JetBrains Mono, Fira Code, Menlo, Monaco, 'Courier New', monospace", // Шрифт подсказок
+    "editor.inlayHints.fontSize": 13, // Размер шрифта подсказок
+    // //Wrap
+    // "editor.wordWrap": "bounded", // Перенос слов
+    // "editor.wrappingIndent": "same", // Перенос слов
+    // "editor.wordWrapColumn": 80, // Перенос слов
+    //ТЕРМИНАЛ
+    // "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font Mono", // from Oh my Posh
+    "terminal.integrated.fontSize": 14, // Размер шрифта терминала
+    "terminal.integrated.tabs.enabled": false, // Вкладки терминала
+    //КУРСОР
+    "editor.cursorBlinking": "expand", // Анимированный курсов
+    "editor.cursorStyle": "line-thin", // Стиль курсора
+    "editor.cursorSmoothCaretAnimation": "on", // Плаваня аниация
+    // ПРОВОДНИК
+    "explorer.confirmDragAndDrop": false, // Потдверждение файлов при перетаскивыания из окна
+    "explorer.confirmDelete": false, // Подтверждение удаления файлов
+    "explorer.compactFolders": false, // Скрытие пустых папок
+    //ДЕБАГ
+    "debug.toolBarLocation": "hidden", // Положение панели отладки
+    "debug.focusWindowOnBreak": false, // Фокус на окне отладки
+    "debug.showInlineBreakpointCandidates": false, // Показать точки останова
+    "debug.showBreakpointsInOverviewRuler": false, // Показать точки останова в правой части окна
+    // ОФОРМЛЕНИЕ
+    "editor.folding": true, // Сворачивание кода
+    "editor.smoothScrolling": true,
+    "window.zoomLevel": 0.5,
+    "editor.accessibilitySupport": "off", // Доступность
+    "editor.bracketPairColorization.enabled": false, // Цвета скобок
+    "editor.glyphMargin": false, // Полоска слева от кода
+    "breadcrumbs.enabled": false, // Включить хлебные крошки
+    // "editor.renderLineHighlight": "gutter", // Подсветка текущей строки
+    "editor.scrollbar.vertical": "hidden", // Вертикальная полоса прокрутки
+    "editor.scrollbar.horizontal": "auto", // Горизонтальная полоса прокрутки
+    "window.density.editorTabHeight": "compact", // Компактная высота вкладок редактора
+    "window.commandCenter": false, // Показать командную панель
+    // Форматирование
+    "editor.formatOnSave": true, // Форматирвание при сохранении
+    "html.autoClosingTags": true, // Автозавершение тегов
+    "html.completion.attributeDefaultValue": "doublequotes", // Двойные кавычки по умолчанию
+    "javascript.autoClosingTags": true, // Автозавершение тегов
+    "typescript.autoClosingTags": true, // Автозавершение тегов
+    "editor.quickSuggestionsDelay": 0, // Задержка подсказок
+    "editor.foldingImportsByDefault": false, // Сворачивание импортов по умолчанию
+    //"editor.formatOnPaste": true // Форматирование при вставке текста
+
+    "editor.linkedEditing": true, // Редкатирование тегов
+    "editor.minimap.enabled": false, //Миникарта кода
+    "workbench.colorTheme": "Default Light Modern", //Тема офромление
+    "workbench.activityBar.location": "top", //Икноки верхняя панель
+    "workbench.iconTheme": "material-icon-theme", // Тема иконок
+    "workbench.layoutControl.enabled": false, //Стрелки навигации
+    "workbench.navigationControl.enabled": false, //Верхняя панель расположении окон
+    /// C\C++
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, IndentWidth: 4, ColumnLimit: 100 }", // Правила форматирования кода на c/c++
+    "C_Cpp.errorSquiggles": "enabled", // Подчеркивание ошибок
+    "C_Cpp.intelliSenseEngine": "default", // Движок IntelliSense
+    "C_Cpp.autocompleteAddParentheses": true, // Автодобавление скобок при автозавершении
+    /// Python
+    "python.languageServer": "Pylance", // Язык сервера
+    "python.analysis.diagnosticMode": "workspace", // Режим диагностики всего проекта или открытого файла
+    "python.analysis.autoSearchPaths": true, // Автоопределение путей
+    "python.analysis.autoImportCompletions": true, // Автозавершение импортов
+    "python.analysis.completeFunctionParens": true, // Автозавершение скобок функций
+    "python.analysis.typeCheckingMode": "off", // Проверка типов
+    "python.analysis.inlayHints.variableTypes": true, // Подсказки типов переменных
+    "python.analysis.inlayHints.functionReturnTypes": true, // Подсказки типов функций
+    "python.analysis.importFormat": "relative", // Формат импорта
+    "python.analysis.autoFormatStrings": true, // Автоформатирование строк
+    "python.analysis.useLibraryCodeForTypes": true, // Использовать библиотечный код для типов
+    "python.analysis.indexing": true, // Индексация
+    "python.analysis.packageIndexDepths": [
+        // Глубина индексации
+        {
+            "name": "sqlalchemy",
+            "depth": 3,
+            "includeAllSymbols": true
+        },
+        {
+            "name": "aiogram",
+            "depth": 2,
+            "includeAllSymbols": true
+        },
+        {
+            "name": "django",
+            "depth": 2
+        },
+        {
+            "name": "flask",
+            "depth": 2
+        },
+        {
+            "name": "fastapi",
+            "depth": 2
+        }
+    ],
+
+    "ruff.enable": true, // Включить ruff
+    "ruff.lint.enable": true, // Включить линтинг ruff
+    "[python]": {
+        "editor.rulers": [79], // Вертикальная линейка
+        "editor.defaultFormatter": "charliermarsh.ruff", // Форматирование кода
+        "editor.formatOnSave": true, // Форматирование при сохранении
+        "files.autoSave": "onFocusChange" // Автосохранение при смене фокуса
+        // "editor.formatOnPaste": true,// Форматирование при вставке текста
+        // "editor.formatOnType": true// // Форматирование при вводе текста
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode" // Форматтер по умолчанию для JSONC
+    },
+    "[typescript]": {
+        "editor.formatOnSave": true, // Форматирование при сохранении
+        "editor.defaultFormatter": "esbenp.prettier-vscode" // Форматтер по умолчанию для TypeScript
+    },
+    "[json]": {
+        "editor.formatOnSave": true, // Форматирование при сохранении
+        "editor.quickSuggestions": {
+            "strings": true // Быстрые подсказки в строках
+        },
+        "editor.suggest.insertMode": "replace", // Режим вставки подсказок
+        "editor.defaultFormatter": "esbenp.prettier-vscode" // Форматтер по умолчанию для JSON
+    },
+    "[javascript]": {
+        "editor.formatOnSave": true, // Форматирование при сохранении
+        "editor.defaultFormatter": "esbenp.prettier-vscode" // Форматтер по умолчанию для JavaScript
+    },
+    "[html]": {
+        "files.autoSave": "onFocusChange", // Автосохранение при смене фокуса
+        // "prettier.tabWidth": 2,
+        "editor.defaultFormatter": "esbenp.prettier-vscode", // Форматтер по умолчанию для HTML
+        "editor.suggest.insertMode": "replace" // Режим вставки подсказок
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools", // Форматтер по умолчанию для C++
+        "files.autoSave": "onFocusChange" // Автосохранение при смене фокуса
+    },
+
+    // Скрытие файлов и папок
+    "files.exclude": {
+        "**/__pycache__": true, // Скрыть папки __pycache__
+        "**/*.pyc": true, // Скрыть скомпилированные файлы Python
+        "**/*.pyo": true, // Скрыть оптимизированные файлы Python
+        "**/*.pyd": true, // Скрыть динамические библиотеки Python
+        "**/*.egg-info": true, // Скрыть информацию о пакетах Python
+        "**/*.ruff_cache": true, // Скрыть кэш ruff
+        "**/.pytest_cache": true // Скрыть кэш pytest
+    },
+    // ПЛАГИНЫ
+    //// prettier
+    "prettier.useTabs": false, // Использовать табуляцию
+    "prettier.singleQuote": false, // Одинарные кавычки
+    "prettier.tabWidth": 4, // Количество пробелов в табуляци
+    // livePreview
+    "livePreview.autoRefreshPreview": "On Changes to Saved Files", // Автообновление при изменении файла
+    //// liveServer
+    "liveServer.settings.donotShowInfoMsg": true, // Не показывать сообщение
+    "liveServer.settings.donotVerifyTags": true, // Не проверять теги
+    //// GIT
+    "git.autofetch": true, // Автоматическая загрузка изменений
+    "git.enableSmartCommit": true, // Умные коммиты
+    "git.confirmSync": false, // Не подтверждать синхронизацию
+    "explorer.confirmPasteNative": false, // Не подтверждать вставку файлов
+    "git.openRepositoryInParentFolders": "never", // Не открывать репозиторий в родительских папках
+    //// indentRainbow
+    "indentRainbow.colorOnWhiteSpaceOnly": false, // Цвет только на пробелах
+    "indentRainbow.indicatorStyle": "light", // Стиль индикатора
+    "indentRainbow.lightIndicatorStyleLineWidth": 1, // Ширина линии индикатора
+    "indentRainbow.colors": [
+        // Цвета отступов
+        "rgba(255,255,64,0.3)",
+        "rgba(127,255,127,0.3)",
+        "rgba(255,127,255,0.3)",
+        "rgba(79,236,236,0.3)"
+    ],
+    "indentRainbow.tabmixColor": "rgba(128,32,96,0.6)", // Цвет смешанных табуляций
+    ///vscodeGoogleTranslate
+    "vscodeGoogleTranslate.preferredLanguage": "Russian", // Предпочитаемый язык перевода
+    // Ассоциации файлов
+    "files.associations": {
+        "*.html": "html" // Ассоциация файлов HTML
+    },
+    "cSpell.language": "en,ru", // Языки проверки орфографии
+    "database-client.autoSync": true, // Автосинхронизация клиента базы данных
+    "github.copilot.advanced": {},
+    "python.defaultInterpreterPath": "C:\\Program Files\\Python313\\python.exe",
+    "containers.containerClient": "com.microsoft.visualstudio.containers.docker",
+    "containers.commands.run": "${containerCommand} run --rm -d ${exposedPorts} ${tag}", // Команда запуска контейнера
+
+    // Code Runner
+    "code-runner.executorMap": {
+        // Карта исполнителей для разных языков
+        "c": "mkdir -p \"build/$fileNameWithoutExt\" && gcc -save-temps=obj -std=c99 -Wall -Wextra -g -o \"build/$fileNameWithoutExt/$fileNameWithoutExt\" \"$fullFileName\" && ./\"build/$fileNameWithoutExt/$fileNameWithoutExt\"",
+        "cpp": "mkdir -p \"build/$fileNameWithoutExt\" && g++ -save-temps=obj -std=c++17 -Wall -Wextra -g -o \"build/$fileNameWithoutExt/$fileNameWithoutExt\" \"$fullFileName\" && ./\"build/$fileNameWithoutExt/$fileNameWithoutExt\"",
+        "javascript": "node",
+        "python": "uv run",
+        "html": "\"C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe\""
+    },
+    "code-runner.runInTerminal": true,
+
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "explorer.fileNesting.patterns": {
+        "*.ts": "${capture}.js",
+        "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+        "*.jsx": "${capture}.js",
+        "*.tsx": "${capture}.ts",
+        "tsconfig.json": "tsconfig.*.json",
+        "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, bun.lock",
+        "*.sqlite": "${capture}.${extname}-*",
+        "*.db": "${capture}.${extname}-*",
+        "*.sqlite3": "${capture}.${extname}-*",
+        "*.db3": "${capture}.${extname}-*",
+        "*.sdb": "${capture}.${extname}-*",
+        "*.s3db": "${capture}.${extname}-*"
+    },
+
+    "code-runner.executorMapByFileExtension": {
+        ".vb": "cd $dir && vbc /nologo $fileName && $dir$fileNameWithoutExt",
+        ".vbs": "cscript //Nologo",
+        ".scala": "scala",
+        ".jl": "julia",
+        ".cr": "crystal",
+        ".ml": "ocaml",
+        ".zig": "zig run",
+        ".exs": "elixir",
+        ".hx": "haxe --cwd $dirWithoutTrailingSlash --run $fileNameWithoutExt",
+        ".rkt": "racket",
+        ".scm": "csi -script",
+        ".ahk": "autohotkey",
+        ".au3": "autoit3",
+        ".kt": "cd $dir && kotlinc $fileName -include-runtime -d $fileNameWithoutExt.jar && java -jar $fileNameWithoutExt.jar",
+        ".kts": "kotlinc -script",
+        ".dart": "dart",
+        ".pas": "cd $dir && fpc $fileName && $dir$fileNameWithoutExt",
+        ".pp": "cd $dir && fpc $fileName && $dir$fileNameWithoutExt",
+        ".d": "cd $dir && dmd $fileName && $dir$fileNameWithoutExt",
+        ".hs": "runhaskell",
+        ".nim": "nim compile --verbosity:0 --hints:off --run",
+        ".csproj": "dotnet run --project",
+        ".fsproj": "dotnet run --project",
+        ".lisp": "sbcl --script",
+        ".kit": "kitc --run",
+        ".v": "v run",
+        ".vsh": "v run",
+        ".sass": "sass --style expanded",
+        ".cu": "cd $dir && nvcc $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        ".ring": "ring",
+        ".sml": "cd $dir && sml $fileName",
+        ".mojo": "mojo run",
+        ".erl": "escript",
+        ".spwn": "spwn build",
+        ".pkl": "cd $dir && pkl eval -f yaml $fileName -o $fileNameWithoutExt.yaml",
+        ".gleam": "gleam run -m $fileNameWithoutExt"
+    },
+    "cSpell.userWords": [
+        // Пользовательский словарь
+        "aiogram",
+        "asdecimal",
+        "asgi",
+        "autofetch",
+        "basicsize",
+        "charcodes",
+        "charliermarsh",
+        "closefd",
+        "configparser",
+        "Consolas",
+        "Cоздаем",
+        "Cохраняем",
+        "datefmt",
+        "dbname",
+        "DGRAM",
+        "dictoffset",
+        "dotenv",
+        "Dunder",
+        "exchangerate",
+        "excs",
+        "fastapi",
+        "fastsite",
+        "fdel",
+        "fillchar",
+        "fillform",
+        "fromlist",
+        "fspath",
+        "getnewargs",
+        "getset",
+        "isabstractmethod",
+        "itemsize",
+        "joinedload",
+        "keepends",
+        "KHTML",
+        "kwdefaults",
+        "levelname",
+        "localtime",
+        "Meslo",
+        "metacls",
+        "naivrick",
+        "nbytes",
+        "ndigits",
+        "netcat",
+        "Noto",
+        "NOTSET",
+        "ondelete",
+        "onupdate",
+        "pathsep",
+        "Pomodoro",
+        "poolclass",
+        "promocode",
+        "pydantic",
+        "pylint",
+        "pyproject",
+        "pysqlite",
+        "qualname",
+        "repr",
+        "REUSEADDR",
+        "selectinload",
+        "selelenium",
+        "sessionmaker",
+        "showdata",
+        "sitebuiltins",
+        "sqlalchemy",
+        "stegano",
+        "strerror",
+        "subclasscheck",
+        "subclasshook",
+        "suboffsets",
+        "sunsfiredev",
+        "supergroup",
+        "templating",
+        "tobytes",
+        "toreadonly",
+        "typeshed",
+        "tzdata",
+        "useragent",
+        "uvicorn",
+        "valute",
+        "venv",
+        "weakrefoffset",
+        "winerror",
+        "zoneinfo",
+        "апдейт",
+        "апдейты",
+        "аудиофайла",
+        "билдер",
+        "воин",
+        "выхохуль",
+        "дропа",
+        "дропом",
+        "инлайн",
+        "логгер",
+        "логгера",
+        "логирует",
+        "миддлвари",
+        "парсинга",
+        "парсингом",
+        "поллинг",
+        "роутеры",
+        "саморефлексии",
+        "Телеграме",
+        "хендлер",
+        "хэндлер",
+        "хэндлера",
+        "хэндлеры"
+    ]
+}
